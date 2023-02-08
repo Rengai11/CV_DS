@@ -6,7 +6,7 @@
 } */
 
 body {
-  background-color: #f1f1f1;
+  background-color: #f3f3f2;
   color: #0f141e;
 
   font-size: 16px;
@@ -69,10 +69,10 @@ a:hover {
 }
 
 .info p {
-  color: #86898f;
+  color: #615d5d;
   margin-bottom: 1px;
   margin-top: 1px;
-  font-style: italic;
+  
   font-weight: bold;
   text-decoration: none;
   /* text-transform: uppercase; */
